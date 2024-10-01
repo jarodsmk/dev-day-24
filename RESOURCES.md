@@ -1,4 +1,5 @@
-**What are emulators?**
+# What are emulators?
+
 https://www.spiceworks.com/tech/devops/articles/what-are-emulators/
 
 [What is emulation? | Definition from TechTarget](https://www.techtarget.com/whatis/definition/emulation)
@@ -13,7 +14,7 @@ PS1HD:
 https://ps1hd.pages.dev/
 
 
-**CHIP-8**
+# CHIP-8
 
 [CHIP-8 - Wikipedia](https://en.wikipedia.org/wiki/CHIP-8)
 
@@ -21,7 +22,8 @@ https://ps1hd.pages.dev/
 
 https://chip-8.github.io/links/
 
-von Neumann Architecture
+
+# von Neumann Architecture
 
 https://www.sciencedirect.com/topics/computer-science/von-neumann-architecture
 
@@ -31,7 +33,7 @@ https://www.sciencedirect.com/topics/computer-science/von-neumann-architecture
 
 
 
-**CHIP-8 Emulation Guides**
+# CHIP-8 Emulation Guides
 
 https://tobiasvl.github.io/blog/write-a-chip-8-emulator/
 
