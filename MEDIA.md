@@ -35,3 +35,7 @@ Pong, F1, shooting game: http://pong-story.com/chip8/
 
 Space Invaders logo (used in QR code):
 https://www.svgrepo.com/svg/275959/space-invaders
+
+## Fonts
+
+Lo-res by Zuzana Licko: https://fonts.adobe.com/fonts/lo-res
