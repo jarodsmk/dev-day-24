@@ -22,6 +22,8 @@ https://ps1hd.pages.dev/
 
 https://chip-8.github.io/links/
 
+Code excerpts taken from: https://github.com/taniarascia/chip8
+
 
 # von Neumann Architecture
 
